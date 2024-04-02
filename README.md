@@ -1,4 +1,5 @@
 # Install-conda-on-WSL
+Base on the install instrcution in [conda-forge/miniforge](https://github.com/conda-forge/miniforge)
 
 ## Step 1: Download Miniforge
 First, open your WSL terminal and run the following command to download Miniforge:
